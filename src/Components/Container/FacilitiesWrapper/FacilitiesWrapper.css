@@ -1,0 +1,7 @@
+.facilitieswrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 950px;
+    margin-left: 20px;
+}

@@ -1,0 +1,10 @@
+.hotelwrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    width: 100%;
+    height: 480px;
+}
+.hotelwrapper img{
+    width: 411px;
+}

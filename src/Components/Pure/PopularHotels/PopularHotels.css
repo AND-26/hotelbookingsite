@@ -1,0 +1,24 @@
+.popularhotels{
+    margin: auto;
+    width: 1725px;
+    height: 656px;
+    margin-top: 150px;
+}
+.popularhotels h1{
+    font-size: 40px;
+}
+.popularhotels p{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.popularhotels p span{
+    background-color: #24AB701A;
+    color: #24AB70 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    padding: 15px;
+    width: 70px;
+}

@@ -1,0 +1,12 @@
+.location{
+    background-image: url(src/assets/map.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 440px 0px 0px 0px;
+    margin-top: 150px;
+    width: 1725px;
+    height: 677px;
+    border-radius: 20px;
+}

@@ -1,0 +1,14 @@
+.searchbutton{
+  background-color: white;
+  box-shadow:#00221314 0px 22px 38px 0px ;
+  position: absolute;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0px 0px 0px 30px;
+  border-radius: 100px;
+  top: 600px;
+  width: 1350px;
+  height: 100px;
+}

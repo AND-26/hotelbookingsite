@@ -1,0 +1,12 @@
+.navigation{
+    background-color: transparent;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+    width: 1725px;
+    height: 50px;
+    
+}

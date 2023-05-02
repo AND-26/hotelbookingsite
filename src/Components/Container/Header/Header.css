@@ -1,0 +1,13 @@
+.header {
+  background-color: #24ab700a;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 40px;
+  border-radius: 50px 80px 0px 0px;
+  width: 1725px;
+  height: 756px;
+}

@@ -1,0 +1,8 @@
+.footer_redes {
+  width: 500px;
+}
+.redes {
+  display: flex;
+  justify-content: space-between;
+  width: 120px;
+}

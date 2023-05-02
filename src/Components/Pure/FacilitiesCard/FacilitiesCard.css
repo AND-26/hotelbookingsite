@@ -1,0 +1,15 @@
+.facilitiescard {
+  background-color: white;
+  border: #e8e8e8 solid 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  width: 193px;
+  height: 193px;
+  border-radius: 8px;
+}
+.facilitiescard:hover{
+    box-shadow: 0px 23px 30px 0px #001D100D;
+}

@@ -1,0 +1,31 @@
+.hotelcard {
+  background-color: #fafafa;
+  width: 411px;
+  height: 100%;
+  border-radius: 16px;
+}
+.hotelcard p {
+  color: #24ab70;
+  box-sizing: border-box;
+  margin-top: 20px;
+  padding: 0px 0px 0px 20px;
+}
+.hotelcard h2{
+    padding: 0px 0px 0px 20px;
+}
+.star {
+  display: flex;
+  justify-content: space-between;
+  margin-top: -10px;
+  width: 300px;
+}
+.hotelcard .star p {
+  color: black;
+  border-right: black solid 1px;
+  width: 200px;
+}
+.star img:last-child {
+  box-sizing: border-box;
+  padding: 0px 20px 0px 20px;
+  width: 150px;
+}

@@ -1,0 +1,23 @@
+.header__text{
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 30px 0px 0px 70px;
+    width: 50%;
+    height: 100%;
+}
+.header__text h1{
+    font-size: 74px;
+}
+.header__text p{
+    font-size: 30px;
+}
+
+.header__text p:last-child{
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    gap: 15px;
+}

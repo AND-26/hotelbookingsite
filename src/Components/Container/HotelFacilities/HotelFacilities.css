@@ -1,0 +1,19 @@
+.hotelfacilities {
+  display: flex;
+  margin: auto;
+  margin-top: 150px;
+  width: 1725px;
+  height: 410px;
+}
+.hotelfacilitiestext h1 {
+  font-size: 40px;
+}
+.hotelfacilitiestext button {
+  background-color: #24ab70;
+  border: #24ab70 solid 1px;
+  color: white;
+  width: 150px;
+  border-radius: 100px;
+  margin-top: 20px;
+  padding: 15px;
+}
